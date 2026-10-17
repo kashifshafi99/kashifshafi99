@@ -11,12 +11,13 @@ I come from finance and business intelligence, where I spent two years turning m
 
 ### 📂 Featured project
 **[Flagging Likely-Malignant Breast Masses](https://github.com/kashifshafi99/breast-cancer-classifier)**
+
 A logistic regression model that classifies breast tissue samples from cell-nucleus measurements, designed around recall because missing a cancer costs far more than a false alarm. It caught 39 of 42 malignant tumours on unseen data (92.9% recall, 93% accuracy vs. a 63% baseline).
 
 ### 🛠️ Tools
-**Languages:** Python (pandas, scikit-learn, matplotlib, seaborn), SQL, R
-**BI and data:** Power BI (DAX, Power Query, data modelling), Excel, SAP
-**Workflow:** Jupyter, VS Code, Git
+- **Languages:** Python (pandas, scikit-learn, matplotlib, seaborn), SQL, R
+- **BI and data:** Power BI (DAX, Power Query, data modelling), Excel, SAP
+- **Workflow:** Jupyter, VS Code, Git
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/kashif-shafi) · kashif.shafi@ucalgary.ca
