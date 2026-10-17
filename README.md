@@ -2,7 +2,7 @@
 
 I'm a **Master of Data Science and Analytics** student at the **University of Calgary**, specializing in Financial and Energy Markets Data Modelling.
 
-I come from finance and business intelligence, where I spent two years turning messy data from SAP and Excel into automated Power BI reporting that leaders used every day. Now I'm building on that with machine learning, statistical modelling and Python, and I'm especially interested in applying AI to real industrial and energy problems.
+I come from finance and business intelligence background, where I spent two years turning messy data from SAP and Excel into automated Power BI reporting that leaders used every day. Now I'm building on that with machine learning, statistical modelling and Python, and I'm especially interested in applying AI to real industrial and energy problems.
 
 ### 🔭 Currently
 - Studying statistical modelling, machine learning and working with data at scale at UCalgary
