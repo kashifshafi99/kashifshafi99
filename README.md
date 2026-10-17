@@ -13,7 +13,7 @@ I come from finance and business intelligence, where I spent two years turning m
 
 **[Pipeline Incident Risk Scoring (Alberta focus)](https://github.com/kashifshafi99/alberta-pipeline-risk-ml)**
 
-A random forest model that scores Canadian pipeline incidents by their risk of becoming significant, using Canada Energy Regulator open data. It reached a test ROC-AUC of 0.84, and on Alberta incidents the high-risk band was 23% significant versus 2% in the low-risk band.
+A random forest model that scores Canadian pipeline incidents by their risk of becoming significant, using Canada Energy Regulator open data. It reached a test ROC-AUC of 0.84, and on Alberta incidents the high-risk band was 23% significant versus 2% in the low-risk band. Includes an [interactive dashboard](https://kashifshafi99.github.io/alberta-pipeline-risk-ml/) built in React.
 
 **[Flagging Likely-Malignant Breast Masses](https://github.com/kashifshafi99/breast-cancer-classifier)**
 
